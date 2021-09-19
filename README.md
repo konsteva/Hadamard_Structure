@@ -26,8 +26,15 @@ A computational approach to the analysis of the pivot structure of 16th order Ha
 
 - **Hadamard_CP_pivot_structure (script)**
   
-  The script uses some of the functions above to compute and display the unique pivot structures that 16th order Hadamard matrices can have when Complete Pivoting is applied
+  The script uses some of the functions above to compute and display the unique pivot structures each equivalence class of 16th order Hadamard matrices can have when Complete Pivoting is applied
   
 - **Hadamard_PP_pivot_structure (script)**
 
-  The script uses some of the functions above to compute and display the unique pivot structures that 16th order Hadamard matrices can have when Partial Pivoting is applied
+  The script uses some of the functions above to compute and display the unique pivot structures each equivalence class of 16th order Hadamard matrices can have when Partial Pivoting is applied
+  
+  # Results
+  
+  Let ![equation]<a href="https://www.codecogs.com/eqnedit.php?latex=A\in&space;\mathbb{R}^{&space;n&space;\times&space;n}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?A\in&space;\mathbb{R}^{&space;n&space;\times&space;n}" title="A\in \mathbb{R}^{ n \times n}" /></a>. Using the scripts above we can prove the following conjectures:
+  
+  1. The 4 last pivots are either n/2
+  
