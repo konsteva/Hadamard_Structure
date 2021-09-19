@@ -36,8 +36,10 @@ A computational approach to the analysis of the pivot structure of 16th order Ha
   
   Let <img src="https://latex.codecogs.com/svg.image?A\in&space;\mathbb{R}^{&space;n&space;\times&space;n}" title="A\in \mathbb{R}^{ n \times n}" /> be a completely pivoted matrix. Using the scripts above we can prove the following conjectures:
   
-  1. The 4 last pivots are either <img src="https://latex.codecogs.com/svg.image?n/2" title="n/2" /> or <img src="https://latex.codecogs.com/svg.image?&space;n/4,&space;n/2,&space;n/2,&space;n" title=" n/4, n/2, n/2, n" />
-  2. The 5th to last pivot is <img src="https://latex.codecogs.com/svg.image?n/3" title="n/3" /> or <img src="https://latex.codecogs.com/svg.image?n/2" title="n/2" />
-  3. The 6th to last pivot is <img src="https://latex.codecogs.com/svg.image?n/4" title="n/4" /> or <img src="https://latex.codecogs.com/svg.image?3n/10" title="3n/8" />
-  4. The 2nd to last pivot is always at most <img src="https://latex.codecogs.com/svg.image?n/2" title="n/2" />
-  5. The 6 first pivots are equal to 
+  1. The 4 last pivots are either <img src="https://latex.codecogs.com/svg.image?frac{n}{2}" title="frac{n}{2}" /> or <img src="https://latex.codecogs.com/svg.image?&space;frac{n}{4},&space;frac{n}{2},&space;frac{n}{2},&space;n" title=" frac{n}{4}, frac{n}{2}, frac{n}{2}, n" />
+  2. The 5th to last pivot is <img src="https://latex.codecogs.com/svg.image?frac{n}{3}" title="frac{n}{3}" /> or <img src="https://latex.codecogs.com/svg.image?n/2" title="frac{n}{2}" />
+  3. The 6th to last pivot is <img src="https://latex.codecogs.com/svg.image?n/4" title="frac{n}{4}" /> or <img src="https://latex.codecogs.com/svg.image?frac{3n}{10}" title="frac{3n}{8}" />
+  4. The 2nd to last pivot is always at most <img src="https://latex.codecogs.com/svg.image?frac{n}{2}" title="frac{n}{2}" />
+  5. The 6 first pivots are equal to <img src="https://latex.codecogs.com/svg.image?1,&space;2,&space;2,&space;4,&space;2" title="1, 2, 2, 4, 2" /> or <img src="https://latex.codecogs.com/svg.image?3,&space;\frac{10}{3}" title="3, \frac{10}{3}" /> or  <img src="https://latex.codecogs.com/svg.image?\frac{8}{3}" title="\frac{8}{3}" /> or <img src="https://latex.codecogs.com/svg.image?4" title="4" />
+  6. The 5th pivot is <img src="https://latex.codecogs.com/svg.image?2" title="2" />
+  7. The 6th pivot is <img src="https://latex.codecogs.com/svg.image?4" title="4" />
