@@ -34,8 +34,10 @@ A computational approach to the analysis of the pivot structure of 16th order Ha
   
   # Results
   
-  Let <img src="https://latex.codecogs.com/svg.image?A\in&space;\mathbb{R}^{&space;n&space;\times&space;n}" title="A\in \mathbb{R}^{ n \times n}" />. 
-  Using the scripts above we can prove the following conjectures:
+  Let <img src="https://latex.codecogs.com/svg.image?A\in&space;\mathbb{R}^{&space;n&space;\times&space;n}" title="A\in \mathbb{R}^{ n \times n}" /> be a completely pivoted matrix. Using the scripts above we can prove the following conjectures:
   
-  1. The 4 last pivots are either n/2
-  
+  1. The 4 last pivots are either <img src="https://latex.codecogs.com/svg.image?n/2" title="n/2" /> or <img src="https://latex.codecogs.com/svg.image?&space;n/4,&space;n/2,&space;n/2,&space;n" title=" n/4, n/2, n/2, n" />
+  2. The 5th to last pivot is <img src="https://latex.codecogs.com/svg.image?n/3" title="n/3" /> or <img src="https://latex.codecogs.com/svg.image?n/2" title="n/2" />
+  3. The 6th to last pivot is <img src="https://latex.codecogs.com/svg.image?n/4" title="n/4" /> or <img src="https://latex.codecogs.com/svg.image?3n/10" title="3n/8" />
+  4. The 2nd to last pivot is always at most <img src="https://latex.codecogs.com/svg.image?n/2" title="n/2" />
+  5. The 6 first pivots are equal to 
