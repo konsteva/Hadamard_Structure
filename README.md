@@ -34,7 +34,8 @@ A computational approach to the analysis of the pivot structure of 16th order Ha
   
   # Results
   
-  Let ![equation]<a href="https://www.codecogs.com/eqnedit.php?latex=A\in&space;\mathbb{R}^{&space;n&space;\times&space;n}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?A\in&space;\mathbb{R}^{&space;n&space;\times&space;n}" title="A\in \mathbb{R}^{ n \times n}" /></a>. Using the scripts above we can prove the following conjectures:
+  Let <img src="https://latex.codecogs.com/svg.image?A\in&space;\mathbb{R}^{&space;n&space;\times&space;n}" title="A\in \mathbb{R}^{ n \times n}" />. 
+  Using the scripts above we can prove the following conjectures:
   
   1. The 4 last pivots are either n/2
   
